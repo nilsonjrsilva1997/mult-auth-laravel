@@ -1,1 +1,1 @@
-Autenticação com outros usuários usando passport.
+Autenticação com vários usuários usando passport.
